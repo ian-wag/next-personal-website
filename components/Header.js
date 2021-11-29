@@ -6,7 +6,7 @@ const Header = () => {
       <nav className="container m-auto grid grid-cols-3 bg-white items-center justify-center p-4">
         <div className=" col-start-2 justify-self-center">
           <Link href="/">
-            <a className="text-xl text-gray-800 font-semibold">Ian.</a>
+            <a className="text-xl text-gray-800 font-semibold">ian</a>
           </Link>
         </div>
         <div className="flex justify-self-end items-center">
